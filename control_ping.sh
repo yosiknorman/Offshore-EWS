@@ -25,7 +25,7 @@ while true; do
     M=${waktu:10:1}0
 
     echo "checking himawari data from Satellite Group BMKG"
-    url="ftp://user_himawari16_netcdf:cirrus@202.90.199.115/Indonesia"
+    url="ftp://sawiyah@bayicicak.com"
 
 
     echo "${Y}/${m}/${d}/"
