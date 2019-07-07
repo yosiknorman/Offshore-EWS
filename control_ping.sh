@@ -41,7 +41,7 @@ while true; do
     cat lain2/data_list.txt
     YDIR=`cat lain2/data_list.txt | tail -n1 | cut -d' ' -f22-`
 
-    # ============================= misal ajah =============================
+    # ============================ For Instance ============================
     # YDIR="2018"
     # Y=${waktu:0:4}
     # m="12"
